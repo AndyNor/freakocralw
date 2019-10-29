@@ -6,7 +6,7 @@ Requires python3 and uses spotipy.
 
 "pip install spotipy" ("pip install --user spotipy" might be needed)
 
-Secrets are stored a file configured to be "freakocrawl.secrets.py" with spotify clientID and API-key. 
+Secrets are stored a file configured to "freakocrawl.secrets.py", and must contain spotify clientID and API-key. 
 
 Rename "freakocrawl.secrets.example.py" and insert your own API-key from Spotify.
 
