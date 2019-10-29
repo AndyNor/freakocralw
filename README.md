@@ -14,3 +14,6 @@ Rename "freakocrawl.secrets.example.py" and insert your own API-key from Spotify
 From a console, current path set the the root of the script
 
 run "python freakocrawl.py"
+
+## playlist
+I have been running this script every once in a while and updated my playlist at https://open.spotify.com/playlist/6BvaERimeLjzciEshOxsNX?si=Ixw7-ep5Rg-7Q8xin3uXaA
